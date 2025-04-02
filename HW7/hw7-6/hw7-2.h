@@ -1,0 +1,2 @@
+char* getUserInput();
+void printAllInput();
